@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
 import './Slider.css'
 import slider1 from '../../images/slide1.jpg'
-import slider2 from '../../images/slide2.jpg'
+import slider from '../../images/slide.jpg'
 import slider3 from '../../images/sllide3.jpg'
 import slider4 from '../../images/slide4.jpg'
 
@@ -29,8 +29,8 @@ const Slider = () => {
             </Carousel.Item>
             <Carousel.Item className='slide-item'>
                 <img
-                    className="d-block w-100 h-100"
-                    src={slider2}
+                    className="d-block w-100"
+                    src={slider}
                     alt="Second slide"
                 />
 
