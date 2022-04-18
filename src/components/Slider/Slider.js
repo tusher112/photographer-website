@@ -15,7 +15,7 @@ const Slider = () => {
     };
 
     return (
-        <Carousel activeIndex={index} onSelect={handleSelect}>
+        <Carousel className='py-5 container bg-light' activeIndex={index} onSelect={handleSelect}>
             <Carousel.Item className='slide-item'>
                 <img
                     className="d-block w-100"

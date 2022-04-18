@@ -7,7 +7,7 @@ const Footer = () => {
     return (
        
        <footer className='h-[128rem] bg-blue-600 text-center bg-dark text-white sticky bottom-0 py-3' >
-            <p><small>copyright @ {year} </small></p>
+            <p><small> Design And Development by Mohammad Tusher Ahmed Aman copyright @ {year} </small></p>
         </footer>
     );
 };

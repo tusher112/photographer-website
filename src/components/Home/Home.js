@@ -6,6 +6,7 @@ const Home = () => {
     return (
         <>
             <Slider></Slider>
+            {/* <span className='py-5'> hello</span> */}
             <Services></Services>
         </>
     );

@@ -4,20 +4,20 @@
         "img": "https://i.ibb.co/6vKy5Nw/R.jpg",
         "price": "BDT 2000",
         "name": "Photo Editing",
-        "description": "package 1 details"
+        "description": "Premium quality photo editing. Fast Delivery with best quality."
     },
     {
         "id": "1",
         "img": "https://i.ibb.co/3r19ySx/pac1.jpg",
         "price": "BDT 5000",
         "name": "Professional Photography",
-        "description": "package 3 details"
+        "description": "Professional photography. wedding or tour package."
     },
     {
         "id": "1",
         "img": "https://i.ibb.co/hBpW4wq/pac2.jpg",
         "price": "BDT 10000",
         "name": "Vide graphy",
-        "description": "package 3 details"
+        "description": "Preofessional video editing for wedding or other occational program."
     }
 ]
