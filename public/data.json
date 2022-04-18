@@ -1,23 +1,23 @@
 [
     {
         "id": "1",
-        "img": "",
-        "price": "",
-        "name": "package 1",
+        "img": "https://i.ibb.co/6vKy5Nw/R.jpg",
+        "price": "BDT 2000",
+        "name": "Photo Editing",
         "description": "package 1 details"
     },
     {
         "id": "1",
-        "img": "",
-        "price": "",
-        "name": "package 1",
-        "description": "package 1 details"
+        "img": "https://i.ibb.co/3r19ySx/pac1.jpg",
+        "price": "BDT 5000",
+        "name": "Professional Photography",
+        "description": "package 3 details"
     },
     {
         "id": "1",
-        "img": "",
-        "price": "",
-        "name": "package 1",
-        "description": "package 1 details"
+        "img": "https://i.ibb.co/hBpW4wq/pac2.jpg",
+        "price": "BDT 10000",
+        "name": "Vide graphy",
+        "description": "package 3 details"
     }
 ]

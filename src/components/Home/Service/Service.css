@@ -1,0 +1,18 @@
+.service {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(247, 226, 230);
+    height: 600px;
+    position: relative;
+}
+
+.btn2 {position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+/* justify-content: center;
+width: 100%;
+margin-left: -180px; */
+}
