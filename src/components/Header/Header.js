@@ -18,6 +18,7 @@ const Header = () => {
             <Navbar className="container" collapseOnSelect expand="lg" sticky='top' bg="dark" className='py-3' variant="dark">
                 <Container className='container'>
                     <Navbar.Brand as={Link} to="/">
+                        <h1>Royel Photography</h1>
                         {/* <img height={30} src={} alt="" /> */}
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
