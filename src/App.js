@@ -11,7 +11,10 @@ import Login from './components/Login/Login';
 import Blog from './components/Blog/Blog';
 import Signup from './components/Signup/Signup';
 import About from './components/About/About';
+import Contact2 from './components/Contact2/Contact2';
+
 import NotFound from './components/NotFound/NotFound';
+
 
 
 function App() {
@@ -24,6 +27,7 @@ function App() {
         <Route path='/services' element={<Services></Services>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/blog' element={<Blog></Blog>}></Route>
+        <Route path='/contact2' element={<Contact2></Contact2>}></Route>
         
         {/* <Route path='/checkout' element={<Checkout></Checkout>}></Route> */}
 
